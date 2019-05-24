@@ -1,6 +1,5 @@
 ## Name: Benjamin Hodgson
 ## ID: 215120652
-## Email: bhodgs@deakin.edu.au
 
 
 import argparse
